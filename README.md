@@ -3,6 +3,12 @@
 - 🌱 I’m currently learning in Facultad de Ingenieria | Universidad de Buenos Aires.
 - 📫 You can contact me by sending an email to "julimontenegro2000@gmail.com".
 
+#include <iostream>
+  int main(){
+  std::cout<<""Have a good day!"<<std::endl;
+  return 0
+  }
+ 
 <!---
 julimonteblack/julimonteblack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
